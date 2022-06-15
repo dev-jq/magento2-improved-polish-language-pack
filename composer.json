@@ -1,24 +1,14 @@
 {
-  "name": "mageplaza/magento-2-polish-language-pack",
-  "description": "Polish language package for Magento 2",
-  "homepage": "https://www.mageplaza.com",
-  "require": {
-    "mageplaza/module-core": "^1.3.13"
-  },
+  "name": "jq91/magento2-improved-polish-language-pack",
+  "description": "Improved Polish language package for Magento 2",
   "type": "magento2-language",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "license": [
-    "MIT"
-  ],
+  "minimum-stability": "stable",
   "authors": [
     {
-      "name": "Mageplaza team",
-      "email": "hi@mageplaza.com",
-      "homepage": "https://www.mageplaza.com",
-      "role": "Leader"
+      "name": "JQ91",
     }
   ],
+  "version": "1.0.0",
   "autoload": {
     "files": [
       "registration.php"
