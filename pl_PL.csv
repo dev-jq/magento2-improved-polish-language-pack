@@ -13669,7 +13669,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Keyword","Słowo kluczowe",module,Magento_Ui
 "Select Date","Wybierz datę",module,Magento_Ui
 "Please enter more or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
-"Please enter less or equal than {0} symbols.","Podaj więcej lub dokładnie {0} symboli.",module,Magento_Ui
+"Please enter less or equal than {0} symbols.","Podaj mniej lub dokładnie {0} symboli.",module,Magento_Ui
 "Please enter {0} words or less.","Podaj {0} słów lub mniej.",module,Magento_Ui
 "Please enter at least {0} words.","Podaj co najmniej {0} słów.",module,Magento_Ui
 "Please enter between {0} and {1} words.","Proszę wprowadzić między {0} a {1} słów.",module,Magento_Ui
@@ -15437,3 +15437,6 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Media", "Media"
 "Add Content", "Dodaj zawartość"
 "HTML Code", "Kod HTML"
+"Plain text only. HTML is not allowed.", "Tylko tekst. HTML jest niedowzolony."
+"CMS homepage content goes here.", "Tutaj pojawi się zawartość CMS strony głównej."
+"The store will not work correctly in the case when cookies are disabled.", "Sklep nie będzie działał prawidłowo, gdy ciasteczka są wyłączone."
