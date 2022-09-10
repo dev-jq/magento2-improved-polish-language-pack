@@ -10128,7 +10128,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Your Rating","Twoja ocena",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 "Summary","Podsumowanie",module,Magento_Review
-"Submit Review","Dodaj recenzję",module,Magento_Review
+"Submit Review","Wyślij opinię",module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Recenzje. Proszę <a href=""%1"">zaloguj się</a> lub <a href=""%2"">załóż konto</a>",module,Magento_Review
 "Add Your Review","Dodaj swoją recenzję",module,Magento_Review
 "%1 Review(s)","%1 recenzja(i)",module,Magento_Review
@@ -15449,3 +15449,6 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "If you created this account using Amazon Pay, you might not know your site password.", "Jeśli utworzyłeś to konto za pomocą Amazon Pay, możesz nie znać swojego hasła."
 "In order to reset your password, please <a href=""%1"">Sign Out</a> and click on “Forgot Your Password?” from the Sign In page", "Aby zresetować hasło, <a href=""%1"">wyloguj się</a> i kliknij „Nie pamiętasz hasła?” na stronie logowania"
 "Ship here","Dostawa na ten adres"
+"Message from %customer_name:", "Wiadomość od %customer_name:"
+"There was no Home CMS page configured or found.", "Nie została skonfigurowana ani znaleziona żadna strona główna CMS."
+"There was no 404 CMS page configured or found.", "Nie została skonfigurowana ani znaleziona żadna strona 404 CMS."
