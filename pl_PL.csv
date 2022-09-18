@@ -1437,7 +1437,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Add Products to Option","Dodaj produkty do opcji",module,Magento_Bundle
 "Close","Zamknij",module,Magento_Bundle
 "Delete Option","Usuń opcję",module,Magento_Bundle
-"What are you looking for?","Czego szukasz?",module,Magento_Bundle
+"What are you looking for?","Szukaj tutaj w całym sklepie",module,Magento_Bundle
 "ID","Identyfikator",module,Magento_Bundle
 "Product","Produkt",module,Magento_Bundle
 "SKU","SKU",module,Magento_Bundle
@@ -2058,7 +2058,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Add Selected","Dodaj wybrane",module,Magento_Catalog
 "Select Attribute","Wybierz cechę",module,Magento_Catalog
 "Create New Attribute","Utwórz nową cechę",module,Magento_Catalog
-"Customizable Options","Indywidualne opcje",module,Magento_Catalog
+"Customizable Options","Konfigurowalne opcje",module,Magento_Catalog
 "Custom options let customers choose the product variations they want.","Niestandardowe opcje pozwalają kupującym wybierać warianty produktów, których potrzebują.",module,Magento_Catalog
 "Add Option","Dodaj opcję",module,Magento_Catalog
 "New Option","Nowa opcja",module,Magento_Catalog
@@ -2080,7 +2080,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Set Product as New From","Ustaw produkt jako nowy od",module,Magento_Catalog
 "Related Products, Up-Sells, and Cross-Sells","Produkty powiązane, alternatywne i sprzedaże krzyżowe",module,Magento_Catalog
 "Related products are shown to customers in addition to the item the customer is looking at.","Powiązane produkty są pokazywane klientom jako dodatek do oglądanych przez nich produktów.",module,Magento_Catalog
-"Add Related Products","Dodaj produkty",module,Magento_Catalog
+"Add Related Products","Dodaj produkty powiązane",module,Magento_Catalog
 "An up-sell item is offered to the customer as a pricier or higher-quality alternative to the product the customer is looking at.","Produkty alternatywne są dla klientów droższą lub lepszą jakościowo alternatywą dla oglądanych przez nich produktów.",module,Magento_Catalog
 "Add Up-Sell Products","Dodaj produkty alternatywne",module,Magento_Catalog
 "Up-Sell Products","Produkty alternatywne (Up-Sell)",module,Magento_Catalog
@@ -2118,7 +2118,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "An attribute group named ""/name/"" already exists.","Grupa atrybutów o nazwie ""/nazwa/"" już istnieje.",module,Magento_Catalog
 "Sorry, we're unable to complete this request.","Przepraszamy, nie możemy zrealizować tego żądania.",module,Magento_Catalog
 "You can't remove attributes from this attribute set.","Nie można usuwać atrybutów z tego zestawu atrybutów.",module,Magento_Catalog
-"Custom Options","Indywidualne opcje",module,Magento_Catalog
+"Custom Options","Opcje niestandardowe",module,Magento_Catalog
 "This is a required option.","Ta opcja jest wymagana.",module,Magento_Catalog
 "The field isn't complete.","Pole nie jest kompletne.",module,Magento_Catalog
 "Compatible file extensions to upload","Kompatybilne rozszerzenia wgrywanego pliku",module,Magento_Catalog
@@ -13161,7 +13161,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Tax Identifier","Identyfikator podatku",module,Magento_Tax
 "Zip/Post is Range","Kod pocztowy jest zakresem",module,Magento_Tax
 "Zip/Post Code","Kod pocztowy",module,Magento_Tax
-"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - pasuje do wszystkiego; 'xyz*' - pasuje do wszystkiego co zaczyna się od 'xyz' i nie jest dłuższe niż %1 się.",module,Magento_Tax
+"'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","'*' - pasuje do wszystkiego; 'xyz*' - pasuje do wszystkiego co zaczyna się od 'xyz' i nie jest dłuższe niż %1.",module,Magento_Tax
 "Range From","Zakres od",module,Magento_Tax
 "Range To","Zakre do",module,Magento_Tax
 "State","Województwo",module,Magento_Tax
@@ -13621,6 +13621,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Record contains unsaved changes.","Rekord zawiera niezapisane zmiany.",module,Magento_Ui
 "Export","Eksport",module,Magento_Ui
 "Active filters\\:","Aktywne filtry\\:",module,Magento_Ui
+"Active filters:", "Aktywne filtry:"
 "Remove","Usuń",module,Magento_Ui
 "Clear all","Wyczyść wszystko",module,Magento_Ui
 "Filters","Filtry",module,Magento_Ui
