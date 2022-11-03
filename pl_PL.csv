@@ -9417,7 +9417,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "The shipping address is missing. Set the address and try again.","Brak adresu wysyłki. Ustaw adres i spróbuj ponownie.",module,Magento_Quote
 "The requested Payment Method is not available.","Wybrana metoda płatności nie jest dostępna.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","Znaleźliśmy błędne polecenia dodania produktu do zapytania.",module,Magento_Quote
-"Product that you are trying to add is not available.","Produktu, który próbujesz dodać, nie jest dostępny.",module,Magento_Quote
+"Product that you are trying to add is not available.","Produkt, który próbujesz dodać, nie jest dostępny.",module,Magento_Quote
 "This is the wrong quote item id to update configuration.","To jest nieprawidłowe id produktu zapytania do aktualizacji konfiguracji.",module,Magento_Quote
 "This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki nie jest dostępna. By jej użyć skontaktuj się z nami.",module,Magento_Quote
 "The address model is not defined.","Model adresu nie został zdefiniowany.",module,Magento_Quote
@@ -9448,7 +9448,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "The quote can't be created.","Nie można utworzyć wyceny.",module,Magento_Quote
 "The customer can't be assigned to the cart. The cart belongs to a different store.","Klient nie może zostać przypisany do koszyka. Koszyk należy do innego sklepu.",module,Magento_Quote
 "The customer can't be assigned to the cart because the cart isn't anonymous.","Klient nie może zostać przypisany do koszyka, ponieważ koszyk nie jest anonimowy.",module,Magento_Quote
-"A server error stopped your order from being placed. Please try to place your order again.","Błąd serwera uniemożliwił złożenie zamówienia. Spróbuj ponownie złożyć zamówienie.",module,Magento_Quote
+"A server error stopped your order from being placed. Please try to place your order again.","Błąd serwera uniemożliwił złożenie zamówienia. Spróbuj ponownie złożyć zamówienie",module,Magento_Quote
 "Invalid state change requested","Zażądano nieprawidłowej zmiany stanu",module,Magento_Quote
 "Only 1 shipping assignment can be set","Można ustawić tylko jedno zadanie dostawy",module,Magento_Quote
 "This item price or quantity is not valid for checkout.","Ta cena lub ilość nie jest ważna dla kasy.",module,Magento_Quote
@@ -10127,7 +10127,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "You're reviewing:","Napisz opinię o produkcie:",module,Magento_Review
 "Your Rating","Twoja ocena",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
-"Summary","Podsumowanie",module,Magento_Review
+"Summary","Podsumowanie opinii",module,Magento_Review
 "Submit Review","Wyślij opinię",module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Recenzje. Proszę <a href=""%1"">zaloguj się</a> lub <a href=""%2"">załóż konto</a>",module,Magento_Review
 "Add Your Review","Dodaj swoją recenzję",module,Magento_Review
@@ -10139,7 +10139,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Product Rating:","Ocena produktu:",module,Magento_Review
 "Product Review (submitted on %1):","Recenzja produktu (zgłoszona %1):",module,Magento_Review
 "Back to Product Reviews","Wróć do recenzji produktu",module,Magento_Review
-"Please select one of each of the ratings above.","Wybierz jedną z powyższych ocen.",module,Magento_Review
+"Please select one of each of the ratings above.","Wybierz ilość gwiazdek dla wyżej dostępnych ocen.",module,Magento_Review
 "By Customers","Klienci",module,Magento_Review
 "By Products","Produkty",module,Magento_Review
 "Enabled","Włączony",module,Magento_Review
