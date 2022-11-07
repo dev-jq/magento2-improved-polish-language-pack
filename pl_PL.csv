@@ -7978,7 +7978,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Products %1","Produkty %1",module,Magento_NegotiableQuote
 "Product %1","Produkt %1",module,Magento_NegotiableQuote
 "New","Nowy",module,Magento_NegotiableQuote
-"Client reviewed","Recenzja klienta",module,Magento_NegotiableQuote
+"Client reviewed","Opinia klienta",module,Magento_NegotiableQuote
 "Open","Otwarty",module,Magento_NegotiableQuote
 "Updated","Zaktualizowano",module,Magento_NegotiableQuote
 "Submitted","Wysłane",module,Magento_NegotiableQuote
@@ -8146,7 +8146,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Shipping Method","Metoda dostawy",module,Magento_NegotiableQuote
 "No shipping information available","Brak informacji o wysyłce",module,Magento_NegotiableQuote
 "Select a shipping address from your address book.","Wybierz adres dostawy z książki adresowej.",module,Magento_NegotiableQuote
-"Send for Review","Wyślij do recenzji",module,Magento_NegotiableQuote
+"Send for Review","Wyślij do zaopiniowania",module,Magento_NegotiableQuote
 "Proceed to Checkout","Przejdź do kasy",module,Magento_NegotiableQuote
 "Close quote","Zamknij wycenę",module,Magento_NegotiableQuote
 "Delete","Usuń",module,Magento_NegotiableQuote
@@ -8706,7 +8706,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Unable to cancel Express Checkout","Nie można anulować zamówienia Express",module,Magento_Paypal
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Zamówienie nie zostało złożone. Najpierw zaakceptuj warunki, a następnie spróbuj ponownie złożyć zamówienie.",module,Magento_Paypal
 "We can't process Express Checkout approval.","Nie możemy przetworzyć zgody Ekspresowej Realizacji.",module,Magento_Paypal
-"We can't initialize Express Checkout review.","Nie możemy zainicjować recenzji Ekspresowej Realizacji.",module,Magento_Paypal
+"We can't initialize Express Checkout review.","Nie możemy zainicjować opinii Ekspresowej Realizacji.",module,Magento_Paypal
 "We can't update shipping method.","Nie udało się zaktualizować metody dostawy.",module,Magento_Paypal
 "We can't start Express Checkout.","Nie możemy uruchomić Ekspresowej Realizacji.",module,Magento_Paypal
 "To check out, please sign in with your email address.","Aby sprawdzić, Proszę zaloguj się przy użyciu adresu e-mail.",module,Magento_Paypal
@@ -9879,7 +9879,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Guest","Gość",module,Magento_Reports
 "Action","Operacja",module,Magento_Reports
 "Average (Approved)","Średnia (zatwierdzone)",module,Magento_Reports
-"Last Review","Ostatnia recenzja",module,Magento_Reports
+"Last Review","Ostatnia opinia",module,Magento_Reports
 "Order Created","Data utworzenia zamówienia",module,Magento_Reports
 "Order Updated","Data aktualizacji zamówienia",module,Magento_Reports
 "The Order Updated report is created in real time and does not require a refresh.","Kolejność zaktualizowany raport jest tworzony w czasie rzeczywistym i nie wymagają odświeżenia.",module,Magento_Reports
@@ -10009,21 +10009,21 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Name & Description","Nazwa i opis",module,Magento_RequisitionList
 "Items","Pozycje",module,Magento_RequisitionList
 "Latest Activity","Ostatnia aktywność",module,Magento_RequisitionList
-"Save Review","Zapisz recenzję",module,Magento_Review
+"Save Review","Zapisz opinię",module,Magento_Review
 "New Review","Nowa opinia",module,Magento_Review
-"Review Details","Szczegóły recenzji",module,Magento_Review
+"Review Details","Szczegóły opinii",module,Magento_Review
 "Product","Produkt",module,Magento_Review
 "Product Rating","Ocena produktu",module,Magento_Review
 "Status","Stan",module,Magento_Review
 "Visibility","Widoczność",module,Magento_Review
 "Nickname","Autor",module,Magento_Review
-"Summary of Review","Podsumowanie recenzji",module,Magento_Review
+"Summary of Review","Podsumowanie opinii",module,Magento_Review
 "Review","Opinia",module,Magento_Review
 "Previous","Poprzednie",module,Magento_Review
 "Save and Previous","Zapisz i do poprzedniego",module,Magento_Review
 "Save and Next","Zapisz i do następnego",module,Magento_Review
 "Next","Następne",module,Magento_Review
-"Delete Review","Usuń recenzję",module,Magento_Review
+"Delete Review","Usuń opinię",module,Magento_Review
 "Are you sure you want to do this?","Czy na pewno chcesz to zrobić?",module,Magento_Review
 "Edit Review '%1'","Edytuj opinię '%1'",module,Magento_Review
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
@@ -10073,19 +10073,19 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Store: %1 <br/>","Sklep: %1 <br/>",module,Magento_Review
 "Click <a href=""%1"">here</a> to see the review.","Kliknij <a href=""%1"">tutaj</a> żeby zobaczyć opinię.",module,Magento_Review
 "Product: ""%1"" reviewed by: %2","Produkt: ""%1"" oceniony przez: %2",module,Magento_Review
-"Pending Reviews RSS","RSS oczekujących recenzji",module,Magento_Review
+"Pending Reviews RSS","RSS oczekujących opinii",module,Magento_Review
 "Reviews %1","Opinie %1",module,Magento_Review
 "Reviews","Opinie",module,Magento_Review
 "The review has been deleted.","Opinia została usunięta.",module,Magento_Review
 "Something went wrong  deleting this review.","Coś poszło nie tak, jak powinno, podczas usuwania opinii.",module,Magento_Review
-"You don’t have permission to perform this operation. The selected review must be in Pending Status.","Nie masz uprawnień do wykonania tej operacji. Wybrana recenzja musi mieć status Oczekująca.",module,Magento_Review
+"You don’t have permission to perform this operation. The selected review must be in Pending Status.","Nie masz uprawnień do wykonania tej operacji. Wybrana opinia musi mieć status Oczekująca.",module,Magento_Review
 "Customer Reviews","Opinie klientów",module,Magento_Review
-"Edit Review","Edycja recenzji",module,Magento_Review
+"Edit Review","Edycja opinii",module,Magento_Review
 "We can't retrieve the product ID.","Nie możemy pobrać ID produktu.",module,Magento_Review
 "Please select review(s).","Wybierz opinię.",module,Magento_Review
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Review
 "Something went wrong while deleting these records.","Coś poszło nie tak, jak powinno, podczas usuwania tych rekordów.",module,Magento_Review
-"You don’t have permission to perform this operation. Selected reviews must be in Pending Status only.","Nie masz uprawnień do wykonania tej operacji. Wybrane recenzje muszą mieć tylko stan Oczekujące.",module,Magento_Review
+"You don’t have permission to perform this operation. Selected reviews must be in Pending Status only.","Nie masz uprawnień do wykonania tej operacji. Wybrane opinie muszą mieć tylko stan Oczekujące.",module,Magento_Review
 "A total of %1 record(s) have been updated.","Zaktualizowano %1 rekordów.",module,Magento_Review
 "Something went wrong while updating these review(s).","Coś poszło nie tak, jak powinno, podczas aktualizacji tych opinii.",module,Magento_Review
 "You saved the review.","Opinia została zapisana.",module,Magento_Review
@@ -10095,8 +10095,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Ratings","Oceny",module,Magento_Review
 "You saved the rating.","Zapisano ocenę.",module,Magento_Review
 "My Product Reviews","Moje opinie o produktach",module,Magento_Review
-"You submitted your review for moderation.","Dodano swoją recenzję do moderacji.",module,Magento_Review
-"We can't post your review right now.","W tej chili nie możemy wysłać Twojej recenzji.",module,Magento_Review
+"You submitted your review for moderation.","Dodano twoją opinię do moderacji.",module,Magento_Review
+"We can't post your review right now.","W tej chili nie możemy wysłać Twojej opinii.",module,Magento_Review
 "The storage key wasn't set. Add the storage key and try again.","Klucz pamięci nie został ustawiony. Dodaj klucz pamięci i spróbuj ponownie.",module,Magento_Review
 "Approved","Zatwierdzony",module,Magento_Review
 "Pending","Oczekujący",module,Magento_Review
@@ -10112,38 +10112,38 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Rating","Ocena",module,Magento_Review
 "Actions","Operacje",module,Magento_Review
 "See Details","Zobacz szczegóły",module,Magento_Review
-"You have submitted no reviews.","Nie masz jeszcze zgłoszonych żadnych recenzji.",module,Magento_Review
+"You have submitted no reviews.","Nie masz jeszcze zgłoszonych żadnych opinii.",module,Magento_Review
 "Back","Powrót",module,Magento_Review
 "My Recent Reviews","Moje ostatnie opinie",module,Magento_Review
 "View All","Zobacz wszystkie",module,Magento_Review
 "Average Customer Rating:","Średnia ocena klientów:",module,Magento_Review
 "Your Review","Twoja ocena",module,Magento_Review
 "Submitted on %1","Przekazywane na %1",module,Magento_Review
-"Back to My Reviews","Wróć do swoich recenzji",module,Magento_Review
+"Back to My Reviews","Wróć do swoich opinii",module,Magento_Review
 "Ratings Review Summary","Podsumowanie przeglądu oceny",module,Magento_Review
 "Be the first to review this product","Oceń ten produkt jako pierwszy",module,Magento_Review
-"Write Your Own Review","Napisz własną recenzję",module,Magento_Review
+"Write Your Own Review","Napisz własną opinię",module,Magento_Review
 "* Required Fields","* pola wymagane",module,Magento_Review
 "You're reviewing:","Napisz opinię o produkcie:",module,Magento_Review
 "Your Rating","Twoja ocena",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
 "Summary","Podsumowanie opinii",module,Magento_Review
 "Submit Review","Wyślij opinię",module,Magento_Review
-"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Recenzje. Proszę <a href=""%1"">zaloguj się</a> lub <a href=""%2"">załóż konto</a>",module,Magento_Review
-"Add Your Review","Dodaj swoją recenzję",module,Magento_Review
-"%1 Review(s)","%1 recenzja(i)",module,Magento_Review
-"Review by","Recenzowany przez",module,Magento_Review
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać opinie. Proszę <a href=""%1"">zaloguj się</a> lub <a href=""%2"">załóż konto</a>",module,Magento_Review
+"Add Your Review","Dodaj swoją opinię",module,Magento_Review
+"%1 Review(s)","%1 opinia(e)",module,Magento_Review
+"Review by","Zaopiniowany przez",module,Magento_Review
 "Posted on","Wysłany na",module,Magento_Review
 "Back to Main Product Info","Wróć do informacji o produkcie",module,Magento_Review
 "Average Customer Rating","Średnia ocena klientów",module,Magento_Review
 "Product Rating:","Ocena produktu:",module,Magento_Review
-"Product Review (submitted on %1):","Recenzja produktu (zgłoszona %1):",module,Magento_Review
-"Back to Product Reviews","Wróć do recenzji produktu",module,Magento_Review
+"Product Review (submitted on %1):","Opinia produktu (zgłoszona %1):",module,Magento_Review
+"Back to Product Reviews","Wróć do opinii produktu",module,Magento_Review
 "Please select one of each of the ratings above.","Wybierz ilość gwiazdek dla wyżej dostępnych ocen.",module,Magento_Review
 "By Customers","Klienci",module,Magento_Review
 "By Products","Produkty",module,Magento_Review
 "Enabled","Włączony",module,Magento_Review
-"Allow Guests to Write Reviews","Pozwól gościom na pisanie recenzji",module,Magento_Review
+"Allow Guests to Write Reviews","Pozwól gościom na pisanie opinii",module,Magento_Review
 "Active","Aktywny",module,Magento_Review
 "Inactive","Nieaktywny",module,Magento_Review
 "ID","Identyfikator",module,Magento_ReviewStaging
@@ -10215,7 +10215,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Earned points for order #%1","Zdobytych punktów przy zamówieniu #%1",module,Magento_Reward
 "Reverted from incomplete order #%1","Wróciła z niezrealizowanej części zamówienia #%1",module,Magento_Reward
 "Registered as customer","Zarejestrowany jako klient",module,Magento_Reward
-"For submitting a product review","Za zamieszczanie recenzji produktu",module,Magento_Reward
+"For submitting a product review","Za zamieszczanie opinii produktu",module,Magento_Reward
 "Earned promotion extra points from order #%1","Zarobiono promocyjne punkty za zamówienie #%1",module,Magento_Reward
 "%1 store reward points available (%2)","%1 punktów lojalnościowych sklepu dostępne (%2)",module,Magento_Reward
 "%1 store reward points available","%1 punktów lojalnościowych sklepu dostępne",module,Magento_Reward
@@ -10323,8 +10323,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "You can reward up to %1 invitee registration(s).","Możesz nagrodzić do %1 rejestracji zaproszonych osób.",module,Magento_Reward
 "Earn %1 for purchases your invitees make.","Zarób %1 za zakupy dokonane przez zaproszone osoby.",module,Magento_Reward
 "You can reward up to %1 invitee purchase(s).","Możesz nagrodzić do %1 zakupów zaproszonych osób.",module,Magento_Reward
-"Submit a review now and earn %1 after the review is approved.","Dodaj swoją recenzję teraz i zyskaj %1 po tym, jak zostanie ona zatwierdzona.",module,Magento_Reward
-"You can reward up to %1 new reviews(s).","Możesz nagrodzić do %1 nowych recenzji.",module,Magento_Reward
+"Submit a review now and earn %1 after the review is approved.","Dodaj swoją opinię teraz i zyskaj %1 po tym, jak zostanie ona zatwierdzona.",module,Magento_Reward
+"You can reward up to %1 new reviews(s).","Możesz nagrodzić do %1 nowych opinii.",module,Magento_Reward
 "Return","Zwrot",module,Magento_Rma
 "Returns","Zwroty",module,Magento_Rma
 "Create Returns","Utworzyć zwroty",module,Magento_Rma
@@ -12530,7 +12530,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Declined","Odrzucony",module,Magento_Signifyd
 "Pending","Oczekujący",module,Magento_Signifyd
 "Canceled","Anulowane",module,Magento_Signifyd
-"In Review","W recenzji",module,Magento_Signifyd
+"In Review","W opiniowaniu",module,Magento_Signifyd
 "Unrequested","Niewymagane",module,Magento_Signifyd
 "Learn more","Dowiedz się więcej",module,Magento_Signifyd
 "This order already has associated case entity","To zamówienie ma już powiązaną jednostkę sprawy",module,Magento_Signifyd
@@ -15324,7 +15324,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "SMS Sends", "Wysyłka SMS"
 "Cron Tasks", "Zadania Cron"
 "Log Viewer", "Przegląd logów"
-"Yotpo Reviews", "Recenzje Yotpo"
+"Yotpo Reviews", "Opinie Yotpo"
 "Advanced", "Zaawansowane"
 "Google reCAPTCHA Admin Panel", "Google reCAPTCHA - panel admina"
 "Google reCAPTCHA Storefront", "Google reCAPTCHA - front sklepu"
@@ -15407,7 +15407,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Product auxiliary info", "Widok produktu - dodatkowe informacje"
 "Product info auxiliary container", "Widok produktu - dodatkowe informacje (kontener)"
 "Product social links container", "Widok produktu - linki social (kontener)"
-"Review Form Fields Before", "Formularz recenzji (przed polami)"
+"Review Form Fields Before", "Formularz opinii (przed polami)"
 "Cart Discount Container", "Koszyk - zniżka (kontener)"
 "Cart Summary Container", "Koszyk - podsumowanie (kontener)"
 "Empty Shopping Cart Content Before", "Pusty koszyk - przed zawartością"
@@ -15453,3 +15453,4 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Message from %customer_name:", "Wiadomość od %customer_name:"
 "There was no Home CMS page configured or found.", "Nie została skonfigurowana ani znaleziona żadna strona główna CMS."
 "There was no 404 CMS page configured or found.", "Nie została skonfigurowana ani znaleziona żadna strona 404 CMS."
+"There is an error. Please Contact store administrator.", "Wystapił błąd sesji. Skontaktuj się z administratorem sklepu."
