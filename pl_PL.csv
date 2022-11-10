@@ -4239,7 +4239,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Name","Nazwa",module,Magento_Contact
 "Email","E-mail",module,Magento_Contact
 "Phone Number","Numer telefonu",module,Magento_Contact
-"What’s on your mind?","Co masz na myśli?",module,Magento_Contact
+"What’s on your mind?","Treść wiadomości",module,Magento_Contact
 "Submit","Wyślij",module,Magento_Contact
 "Contact Form","Formularz kontaktowy",module,Magento_Contact
 "Phone","Telefon",module,Magento_Contact
@@ -8371,7 +8371,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Create Newsletter Template","Utwórz szablon newslettera",module,Magento_Newsletter
 "The newsletter template has been saved.","Szablon newslettera został zapisany.",module,Magento_Newsletter
 "Something went wrong while saving this template.","Coś się zepsuło podczas zapisywania tego szablonu.",module,Magento_Newsletter
-"Newsletter Subscription","Subskrypcja newsletter'a",module,Magento_Newsletter
+"Newsletter Subscription","Subskrypcja newslettera",module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Coś się zepsuło podczas zapisywania twojej subskrypcji.",module,Magento_Newsletter
 "We have saved your subscription.","Zapisaliśmy Twoją subskrypcję.",module,Magento_Newsletter
 "A confirmation request has been sent.","Prośba o potwierdzenie została wysłana.",module,Magento_Newsletter
@@ -10773,7 +10773,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "* - Enter custom price excluding tax","* - Wprowadź własną cenę bez podatku",module,Magento_Sales
 "Configure","Konfiguruj",module,Magento_Sales
 "This product does not have any configurable options","Ten produkt nie posiada żadnych konfigurowalnych opcji",module,Magento_Sales
-"Newsletter Subscription","Subskrypcja newsletter'a",module,Magento_Sales
+"Newsletter Subscription","Subskrypcja newslettera",module,Magento_Sales
 "Please select products","Proszę wybrać produkty",module,Magento_Sales
 "Add Selected Product(s) to Order","Dodaj wybrane produkty do zamówienia",module,Magento_Sales
 "ID","Identyfikator",module,Magento_Sales
@@ -15454,3 +15454,44 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "There was no Home CMS page configured or found.", "Nie została skonfigurowana ani znaleziona żadna strona główna CMS."
 "There was no 404 CMS page configured or found.", "Nie została skonfigurowana ani znaleziona żadna strona 404 CMS."
 "There is an error. Please Contact store administrator.", "Wystapił błąd sesji. Skontaktuj się z administratorem sklepu."
+"Login as Customer", "Zaloguj się jako klient"
+"Login as Customer not enabled", "Logowanie jako klient nie jest włączone"
+"Login as Customer is disabled.", "Logowanie jako klient jest wyłączone"
+"The user has not enabled the ""Allow remote shopping assistance"" functionality. ", "Użytkownik nie włączył funkcji ""Zezwalaj na zdalną pomoc w zakupach""."
+"Contact the customer to discuss this user configuration.", "Skontaktuj się z klientem, aby omówić tę konfigurację użytkownika."
+"Close Session","Zamknij sesję"
+"You are connected as <strong>%1</strong> on %2","Jesteś połączony jako <strong>%1</strong> na %2"
+"Login was not successful.", "Logowanie nie powiodło się."
+"Fail to get authentication data.", "Nie udało się uzyskać danych uwierzytelniających."
+"Login as Customer: Select Store", "Zaloguj się jako Klient: Wybierz Sklep"
+"You are about to Login as Customer", "Zamierzasz się zalogować jako klient"
+"Actions taken while in ""Login as Customer"" will affect actual customer data.", "Działania podejmowane w trybie ""Zaloguj się jako klient"" wpłyną na rzeczywiste dane klienta."
+"Customer with this ID no longer exists.", "Klient o tym identyfikatorze już nie istnieje."
+"Please select a Store to login in.", "Wybierz Sklep, w którym chcesz się zalogować."
+"Auto-Detection (default)", "Automatyczne wykrywanie (domyślne)"
+"Manual Selection", "Wybór ręczny"
+"Unable to get Customer ID.", "Nie można uzyskać identyfikatora klienta."
+"Unable to get Order ID.", "Nie można uzyskać identyfikatora zamówienia."
+"Login as Customer assistance is disabled for this Customer.", "Logowanie jako obsługa klienta jest wyłączona dla tego klienta."
+"You have no permission to change Opt-In preference.", "Nie masz uprawnień do zmiany preferencji 'Tak jeśli zgoda'."
+"You are logged in as customer: %1", "Jesteś zalogowany jako klient: %1"
+"You are logged in", "Jesteś zalogowany"
+"Cannot login to account.", "Nie można zalogować się na konto."
+"Customer email provided does not exist", "Podany adres e-mail klienta nie istnieje"
+"Unable to generate tokens. ", "Nie można wygenerować tokenów. "
+"Please wait and try again later.", "Poczekaj i spróbuj ponownie później."
+"Check input params.", "Sprawdź parametry wejściowe."
+"Specify the ""customer email"" value.", "Określ wartość ""adres e-mail klienta""."
+"Allow remote shopping assistance is disabled.", "Opcja 'Zezwalaj na zdalną pomoc w zakupach' jest wyłączona."
+"The current customer isn\'t authorized.", "Obecny klient nie jest autoryzowany."
+"Login as Customer Log", "Dziennik zdarzeń z 'Zaloguj się jako klient'"
+"Admin ID","ID admina"
+"Login as Customer Settings", "Ustawienia logowania jako klient"
+"Enable Extension", "Włącz rozszerzenie"
+"Disable Page Cache For Admin User", "Wyłącz pamięć podręczną stron dla użytkownika administratora"
+"If set to ""Yes"", page caching is disabled when the Admin user is logged in as a customer.", "Jeśli ustawione na ""Tak"", buforowanie strony jest wyłączone, gdy użytkownik Admin jest zalogowany jako klient."
+"Store To Login To", "Sklep do zalogowania"
+"Use the ""Manual Selection"" option on a multi-website setup that has ""Share Customer Accounts"" enabled globally. If set to ""Manual Selection"", the ""Login as Customer"" admin can select a Store after logging in.", "Użyj opcji ""Wybór ręczny"" w konfiguracji obejmującej wiele witryn, w której ""Udostępnij konta klientów"" jest włączone globalnie. Jeśli jest ustawiony na ""Wybór ręczny"", administrator ""Zaloguj się jako klient"" może wybrać Sklep po zalogowaniu."
+"Title for Login as Customer opt-in checkbox", "Tytuł dla pola wyboru logowania jako klienta"
+"Login as Customer checkbox tooltip", "Tooltip pola wyboru Zaloguj się jako klient"
+"This allows merchants to ""see what you see"" and take actions on your behalf in order to provide better assistance.", "Dzięki temu sprzedawcy mogą ""zobaczyć to, co widzisz"" i podejmować działania w Twoim imieniu w celu zapewnienia lepszej pomocy."
