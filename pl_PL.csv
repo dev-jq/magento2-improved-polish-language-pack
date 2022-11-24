@@ -1687,7 +1687,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Save & Close","Zapisz i zamknij",module,Magento_Catalog
 "Attributes","Cechy",module,Magento_Catalog
 "Change","Zmień",module,Magento_Catalog
-"Advanced Inventory","Stan magazynowy",module,Magento_Catalog
+"Advanced Inventory","Zaawansowana inwentaryzacja",module,Magento_Catalog
 "Websites","Witryny",module,Magento_Catalog
 "Products Information","Informacje o produktach",module,Magento_Catalog
 "Create Category","Stwórz Kategorię",module,Magento_Catalog
@@ -2573,7 +2573,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Something went wrong while updating the product(s) attributes.","Coś poszło nie tak podczas aktualizowania atrybutów produktów.",module,Magento_CatalogInventory
 "Stock Status","Stan magazynowy",module,Magento_CatalogInventory
 "Quantity","Ilość",module,Magento_CatalogInventory
-"Advanced Inventory","Stan magazynowy",module,Magento_CatalogInventory
+"Advanced Inventory","Zaawansowana inwentaryzacja",module,Magento_CatalogInventory
 "%1 is available to buy in increments of %2","%1 jest do kupienia w przyrostach co %2",module,Magento_CatalogInventory
 "Only %1 left","Pozostało tylko %1",module,Magento_CatalogInventory
 "Product availability","Dostępność produktu",module,Magento_CatalogInventory
@@ -3856,7 +3856,6 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "The base currency for %1 has been updated. The currency %2 is still defined as the credit currency for one or more companies. Use the following <a href=""%3"" id=""update-credit-link"">link</a> to perform a bulk operation that updates the credit currency for those companies.","Waluta podstawowa dla %1 została zaktualizowana. Waluta %2 jest nadal definiowana jako waluta kredytu dla jednej lub więcej firm. Użyj następującego <a href=""%3"" id=""update-credit-link"">linka</a> wykonać zbiorczą operację, która aktualizuje walutę kredytu dla tych firm.",module,Magento_CompanyCredit
 "%1 has exceeded its credit limit (%2) by %3. Its outstanding balance, including this order, currently totals %4.","%1 przekroczył limit kredytowy (%2) o %3. Jego saldo należności, w tym to zamówienie, wynosi obecnie %4.",module,Magento_CompanyCredit
 "The credit limit for %1 is %2. Its outstanding balance, including this order, currently totals %3","Limit kredytowy dla %1 wynosi %2. Jego saldo należności, w tym to zamówienie, wynosi obecnie %3",module,Magento_CompanyCredit
-"The credit limit for %1 is %2. Its outstanding balance, including this order, currently totals %3","Limit kredytowy dla %1 wynosi %2. Jego saldo należności, w tym to zamówienie, wynosi obecnie %3",module,Magento_CompanyCredit
 "Outstanding Balance","Saldo",module,Magento_CompanyCredit
 "Available Credit","Dostępne Kredyty",module,Magento_CompanyCredit
 "Credit Limit","Limit kredytowy",module,Magento_CompanyCredit
@@ -4160,7 +4159,6 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Step 1: Select Attributes","Krok 1: Wybierz cechy",module,Magento_ConfigurableProduct
 "Selected Attributes:","Wybrane cechy:",module,Magento_ConfigurableProduct
 "Step 4: Summary","Krok 4: Podsumowanie",module,Magento_ConfigurableProduct
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Produkty konfigurowalne pozwalają klientom na wybranie produktu w określonej konfiguracji (np. konkretnego koloru koszulki). Każda konfiguracja (np. każdy kolor koszulki) wymaga stworzenia odrębnego produktu prostego.",module,Magento_ConfigurableProduct
 "Edit Configurations","Edytuj konfigurację",module,Magento_ConfigurableProduct
 "Upload Image","Prześlij obrazek",module,Magento_ConfigurableProduct
 "No Image","Brak obrazka",module,Magento_ConfigurableProduct
@@ -11864,7 +11862,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Not enough arguments","Za mało argumentów",module,Magento_SalesSequence
 "File not found","Nie znaleziono pliku",module,Magento_SampleData
 "Fatal Error","Błąd krytyczny",module,Magento_ScalableCheckout
-"Advanced Inventory","Stan magazynowy",module,Magento_ScalableInventory
+"Advanced Inventory","Zaawansowana inwentaryzacja",module,Magento_ScalableInventory
 "Manage Stock","Zarządzaj stanami",module,Magento_ScalableInventory
 "Yes","Tak",module,Magento_ScalableInventory
 "No","Nie",module,Magento_ScalableInventory
@@ -13267,10 +13265,10 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","Aby zastosować zniżkę na ceny zawierające podatek i zastosować podatek po rabacie, ustaw Ceny katalogowe na 'Z podatkiem'.",module,Magento_Tax
 "Store(s) affected: ","Dotyczy sklepów: ",module,Magento_Tax
 "Click on the link to <a href=""%1"">ignore this notification</a>","Kliknij na link, aby <a href=""%1""> zignorować tą informację</a>",module,Magento_Tax
-"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","Po zastosowaniu podatku od klientów 'przed rabatem' ostateczna kalkulacja rabatu może nie odpowiadać oczekiwaniom klientów.",module,Magento_Tax
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","W przypadku zastosowania podatku “przed rabatem” ostateczne obliczenie rabatu może nie odpowiadać oczekiwaniom klientów.",module,Magento_Tax
 "Your current tax configuration may result in rounding errors. ","Twoja bieżąca konfiguracja podatku może spowodować błędy w zaokrąglaniu.",module,Magento_Tax
 "Please see <a href=""%1"">documentation</a> for more details. ","By uzyskać więcej szczegółów przejdź do <a href=""%1"">dokumentacji</a>. ",module,Magento_Tax
-"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Kliknij tutaj, aby przejść do <a href=""%1"">zarządzania podatkami</a> i zmienić ustawienia.",module,Magento_Tax
+"Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Kliknij w link, aby przejść do <a href=""%1"">zarządzania podatkami</a> i zmienić ustawienia.",module,Magento_Tax
 "Invalid type of tax class ""%1""","Nieprawidłowy typ klasy podatku ""%1""",module,Magento_Tax
 "Updating classType is not allowed.","Aktualizowanie classType jest niedozwolone.",module,Magento_Tax
 "A class with the same name already exists for ClassType %1.","Klasa o tej samej nazwie już istnieje dla ClassType %1.",module,Magento_Tax
@@ -15109,14 +15107,12 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Product -- Full Width", "Produkt - pełna szerokość"
 "Aggregated inventory available to purchase for a stock. The amount aggregates assigned source's Quantity subtracting the Out-of-Stock Threshold (or MinQty).", "Zagregowane zapasy dostępne do zakupu dla danego magazynu. Ilość jest sumą ilości przypisanej do źródła po odjęciu progu wyczerpania zapasów (lub min. ilości)."
 "Created For", "Utworzone dla"
-"Find items", "Znajdź elementy"
 "Apply Template", "Zastosuj szablon"
 "Save as Template", "Zapisz jako szablon"
 "Close Full Screen", "Zamknij pełny ekran"
 "Desktop", "Desktop"
 "View your content for ", "Zobacz swoje treści dla "
 "Mobile", "Mobilne"
-"Layout", "Układ"
 "Add Content", "Dodaj zawartość"
 "If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.", "Jeśli Twoja instalacja Magento ma wiele witryn internetowych, możesz edytować zakres, aby powiązać klienta z określoną witryną."
 "Associate to Website", "Powiąż z witryną"
@@ -15360,7 +15356,6 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Now Shopping by","Twój wybór"
 "Invalid security or form key. Please refresh the page.", "Nieprawidłowy klucz bezpieczeństwa lub klucz formularza. Odśwież stronę."
 "Consumer Secret", "Klucz tajny klienta"
-"Duplicate", "Duplikuj"
 "Unique constraint violation found", "Znaleziono unikalne naruszenie ograniczeń"
 "Provided Zip/Postal Code seems to be invalid. Example: 12-345. If you believe it is the right one you can ignore this notice.", "Podany kod pocztowy wydaje się być nieprawidłowy. Przykład: 12-345. Jeśli uważasz, że jest to właściwe, możesz zignorować to powiadomienie."
 "New Address", "Nowy adres"
@@ -15433,10 +15428,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Hide", "Ukryj"
 "Show", "Pokaż"
 "Move", "Przenieś"
-"Layout", "Układ"
 "Elements", "Elementy"
 "Media", "Media"
-"Add Content", "Dodaj zawartość"
 "HTML Code", "Kod HTML"
 "Plain text only. HTML is not allowed.", "Tylko tekst. HTML jest niedowzolony."
 "CMS homepage content goes here.", "Tutaj pojawi się zawartość CMS strony głównej."
@@ -15445,8 +15438,6 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Customer Login", "Logowanie klienta"
 "Create New Customer Account", "Nowe konto klienta"
 "Tax/VAT Number", "Numer NIP"
-"Show Password", "Pokaż hasło"
-"Hide Password", "Ukryj hasło"
 "If you created this account using Amazon Pay, you might not know your site password.", "Jeśli utworzyłeś to konto za pomocą Amazon Pay, możesz nie znać swojego hasła."
 "In order to reset your password, please <a href=""%1"">Sign Out</a> and click on “Forgot Your Password?” from the Sign In page", "Aby zresetować hasło, <a href=""%1"">wyloguj się</a> i kliknij „Nie pamiętasz hasła?” na stronie logowania"
 "Ship here","Dostawa na ten adres"
@@ -15495,3 +15486,4 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Title for Login as Customer opt-in checkbox", "Tytuł dla pola wyboru logowania jako klienta"
 "Login as Customer checkbox tooltip", "Tooltip pola wyboru Zaloguj się jako klient"
 "This allows merchants to ""see what you see"" and take actions on your behalf in order to provide better assistance.", "Dzięki temu sprzedawcy mogą ""zobaczyć to, co widzisz"" i podejmować działania w Twoim imieniu w celu zapewnienia lepszej pomocy."
+"There are no source items with the in stock status", "Brak pozycji źródłowych ze statusem w magazynie"
