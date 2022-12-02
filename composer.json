@@ -8,7 +8,7 @@
       "name": "JQ91"
     }
   ],
-  "version": "1.0.11",
+  "version": "1.1.0",
   "autoload": {
     "files": [
       "registration.php"
