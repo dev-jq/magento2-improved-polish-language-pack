@@ -3793,7 +3793,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Change Shipping Address", "Zmień adres dla dostawy"
 "You have no default shipping address in your address book.", "Nie masz podstawowego adresu wysyłki w książce adresowej."
 "%1: Line %2", "%1 (linia %2)"
-"Street Address: Line %1", "Ulica i numer (linia %1)
+"Street Address: Line %1", "Ulica i numer (linia %1)"
 "Street Address %1", "Ulica i numer %1"
 "It's a default billing address.", "Jest to domyślny adres rozliczeniowy."
 "Use as my default billing address", "Użyj jako domyślnego adresu rozliczeniowego"
@@ -10668,7 +10668,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Operation allowed only in HTTPS", "Operacja jest dozwolona tylko w HTTPS"
 "Cannot perform GET operation with store code 'all'", "Nie można wykonać operacji GET dla kodu sklepu ""all"""
 "Specified request cannot be processed.", "Nie można przetworzyć określonego żądania."
-"Request does not match any route.", "Wniosek nie odpowiada żadnej ścieżce."
+"Request does not match any route.", "Żądanie nie odpowiada żadnej ścieżce."
 "Not allowed parameters: %1. Please use only %2 and %3.", "Parametr: %1 nie dozwolony. Proszę używać tylko %2 i %3."
 "Requested service is not available: ""%1""", "Żądana usługa nie dostępna: ""%1"""
 "Operation ""%1"" not found.", "Operacja ""%1"" nie znaleziona."
