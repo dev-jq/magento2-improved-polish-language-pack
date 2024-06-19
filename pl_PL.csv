@@ -578,6 +578,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "%1 cache type(s) refreshed.", "Pomyślnie odświeżone pamięci podręczne: %1."
 "An error occurred while refreshing cache.", "Wystąpił błąd podczas odświeżania pamięci podręcznej."
 "Dashboard", "Panel"
+"My Dashboard", "Mój panel konta"
 "We updated lifetime statistic.", "Zaktualizowaliśmy statystyki."
 "We can't refresh lifetime statistics.", "Nie możemy odświeżyć statystyki życia."
 "invalid request", "nieprawidłowe zapytanie"
