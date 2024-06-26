@@ -4907,7 +4907,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "Could not delete the gift card account.", "Nie udało się usunąć konta karty podarunkowej."
 "The expiration date must be set in the future.", "Data wygaśnięcia musi być ustawiona w przyszłości."
 "The balance cannot be less than zero.", "Saldo nie może być mniejsza od zera."
-"This gift card account is already in the quote.", "To konto karty upominkowej jest już w ofercie."
+"This gift card account is already in the quote.", "Ta karta upominkowa z konta jest już uwzględniona w ofercie."
 "Please correct the gift card account code: ""%1"".", "Proszę poprawić kod konta karty upominkowej: ""%1""."
 "This gift card account wasn't found in the quote.", "Tego konta karty podarunkowej nie znaleziono w ofercie."
 "Please correct the gift card account ID. Requested code: ""%1""", "Proszę poprawić identyfikator konta karty upominkowej. Zgłoszony kod: ""%1"""
