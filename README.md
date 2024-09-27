@@ -5,7 +5,7 @@
 `composer require jq-dev/magento2-improved-polish-language-pack`
 
 ### or specific version:
-`composer require jq-dev/magento2-improved-polish-language-pack:1.1.0`
+`composer require jq-dev/magento2-improved-polish-language-pack:1.1.4`
 
 ## Setup:
 - php bin/magento setup:static-content:deploy pl_PL
