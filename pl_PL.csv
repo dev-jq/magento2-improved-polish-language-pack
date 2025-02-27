@@ -2567,7 +2567,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "View and Edit Cart", "Zobacz i edytuj koszyk"
 "See Details", "Zobacz szczegóły"
 "Options Details", "Szczegóły opcji"
-"Cart Subtotal", "Łączna kwota z VAT"
+"Cart Subtotal", "Suma częściowa"
 "No Payment Methods", "Brak metod płatności"
 "No Payment method available.", "Brak dostępnych metod płatności."
 "You can track your order status by creating an account.", "Jeżeli założysz konto, będziesz mógł śledzić status swojego zamówienia."
@@ -11869,3 +11869,4 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> wa
 "CSS Classes", "Klasy CSS"
 "Space separated list of classes.", "Lista klas odzielonych spacjami."
 "Margins and Padding", "Marginesy i paddingi"
+"You did not sign in correctly or your account is temporarily disabled.", "Nieprawidłowe logowanie lub Twoje konto zostało tymczasowo wyłączone."
